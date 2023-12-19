@@ -1,7 +1,7 @@
 
 <h1 align="center">About ME</h1>
 
-### 💮 My Hidden Name Is |REDfriend
+### 💮 My Hidden Name Is |ReXiTe|
 <img src="./twitch logo.png" height="200vh">
 <img src="https://img.shields.io/badge/|REDfriend-%23c91a4c.svg?&style=for-the-badge&logo=github&logoColor=white">
 
