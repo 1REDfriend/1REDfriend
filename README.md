@@ -4,7 +4,8 @@
 ### 💮 My Hidden Name Is |REDfriend
 <img src="./twitch logo.png" height="200vh">
 <img src="https://img.shields.io/badge/|REDfriend-%23c91a4c.svg?&style=for-the-badge&logo=github&logoColor=white">
-
+<H4>About Me</H4>
+<p>Most of my projects on github are published privately, up to 80%.</p>
 ------------------------------
 - [x] 🧑‍🎓 Study in my school
 - [x] 💻 Education programer
