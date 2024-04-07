@@ -11,8 +11,9 @@ Most of my projects on github are published privately, up to 80%.
 What you see on my activity is just some of the projects that have been made public.
 
 ------------------------------
-- [x] 🧑‍🎓 Study in my school
+- [ ] 🧑‍🎓 Study in my school
 - [x] 💻 Education programer
+- [ ] Education in Univercity
 ------------------------------
 
 # 📱 Social Media
