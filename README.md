@@ -31,10 +31,12 @@ What you see on my activity is just some of the projects that have been made pub
 # 📱 Social Media
 [<img src="https://img.shields.io/badge/Facebook-%233871eb.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/profile.php?id=100069463419143)
 [<img src="https://img.shields.io/badge/Instagram-%23c91a4c.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/_redfriend_/)
-[<img src="https://img.shields.io/badge/Discord-%234138eb.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://www.discord.com/)
+[<img src="https://img.shields.io/badge/Discord-%234138eb.svg?&style=for-the-badge&logo=discord&logoColor=white">](https://www.discord.com/) <br>
+[<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" height="30px">](https://www.linkedin.com/in/supakorn-pipithgul-b4b229303)
 
 ###
 
+# 📠 Skill
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
