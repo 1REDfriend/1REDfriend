@@ -25,7 +25,7 @@ What you see on my activity is just some of the projects that have been made pub
 ------------------------------
 - [ ] 🧑‍🎓 Study in my school
 - [x] 💻 Education programer
-- [ ] Education in Univercity
+- [x] Education in Univercity
 ------------------------------
 
 # 📱 Social Media
