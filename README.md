@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="https://github.com/1REDfriend/1REDfriend/assets/83909061/959cd859-d7ae-46c3-835b-234db03b0af1" height="400px">
+  <img src="https://github.com/user-attachments/assets/e1be65bc-8f32-4497-97c4-7458e54f3b42" height="400px">
 </p>
 
 
