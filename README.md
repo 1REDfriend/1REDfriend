@@ -57,3 +57,5 @@ What you see on my activity is just some of the projects that have been made pub
 </div>
 
 https://github.com/Phoz07/CNI_Lecture#
+
+https://www.notion.so/CNI-LAB0X-Review-2ebcabfcb3b180eda688f35347b80e0b?source=copy_link
