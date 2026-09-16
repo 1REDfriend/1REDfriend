@@ -59,3 +59,7 @@ What you see on my activity is just some of the projects that have been made pub
 https://github.com/Phoz07/CNI_Lecture#
 
 https://www.notion.so/CNI-LAB0X-Review-2ebcabfcb3b180eda688f35347b80e0b?source=copy_link
+
+<img width="200" height="200" alt="bmc_qr" src="https://github.com/user-attachments/assets/4034910a-9019-498d-a3e7-85d96b789e5e" />
+
+[Buy Me a Cofee](buymeacoffee.com/tongtongkok)
